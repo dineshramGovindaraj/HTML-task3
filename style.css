@@ -1,0 +1,15 @@
+.tog-img {
+  width: 50px;
+}
+.you-img {
+  height: 50px;
+}
+.cam-img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+.chan-flex {
+  display: flex;
+  margin: 0px;
+}
